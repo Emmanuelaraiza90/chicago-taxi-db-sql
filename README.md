@@ -47,13 +47,13 @@ Garantizar la integridad de los datos almacenados en el backend y diagnosticar i
 ## 📸 Evidencia Visual de Ejecución
 
 **Gestión de Servidor y Aislamiento de Logs (Consola Bash):**
-![Logs Bash](chicago-taxi-db-sqlCaptura%20de%20pantalla%202026-09-23%20a%20la(s)%2018.10.58.jpg)
+![Logs Bash](01-logs.png)
 
 **Estructuración de Consultas SQL Avanzadas (JOINs & Funciones de Agregación):**
-![SQL Query](chicago-taxi-db-sqlCaptura%20de%20pantalla%202026-09-23%20a%20la(s)%2018.25.52.jpg)
+![SQL Query](02-sql-query.png)
 
 **Resultados de Persistencia y Volumetría en Base de Datos:**
-![SQL Results](chicago-taxi-db-sqlCaptura%20de%20pantalla%202026-09-23%20a%20la(s)%2018.24.38.jpg)
+![SQL Results](03-sql-results.png)
 
 ---
 
